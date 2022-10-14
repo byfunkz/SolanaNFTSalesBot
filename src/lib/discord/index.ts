@@ -19,7 +19,7 @@ export async function initClient(
   }
   return new Promise<Discord.Client>((resolve) => {
     client.on("ready", () => {
-      client.user?.setActivity(`@koalasnft_ 🐦` , { type: "WATCHING"})
+      client.user?.setActivity(`put here anything you want` , { type: "BOT ACTIVITY"})
       logger.log(`Logged in as ${client.user?.tag}!`);
       resolve(client);
     });
