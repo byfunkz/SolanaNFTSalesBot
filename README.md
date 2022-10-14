@@ -70,11 +70,11 @@ Go to Solscan -> Search your collection -> Click on any NFT you choose (it doesn
 ### Preferences 🎨
 
 **Discord Bot Embeded Color:**
-if you want to you can change the bot embeded message color by going to src/lib/discord/notifyDiscordSale.ts in [line 49](link).
+if you want to you can change the bot embeded message color by going to src/lib/discord/notifyDiscordSale.ts in [line 49]([link](https://github.com/funkzzz/SolanaNSB/blob/main/src/lib/discord/notifyDiscordSale.ts#L49)).
 Go to https://redketchup.io/color-picker , pick the color that you want and then copy the hex code (#?????). in line 49 delete the 0xffffff and type 0x{pase your hex without the #}
 
 **Custom status:**
-you can change the bot status by going to src/lib/discord/index.ts in [line 22](link).
+you can change the bot status by going to src/lib/discord/index.ts in [line 22]([link](https://github.com/funkzzz/SolanaNSB/blob/main/src/lib/discord/index.ts#L22)).
 ```client.user?.setActivity(`type here whatever you want` , { type: "Activity Type"})```
 
 Activity Type:
