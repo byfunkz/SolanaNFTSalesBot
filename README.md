@@ -18,10 +18,6 @@ This bot created by [NoamPeretz](@twitterlink) . The Bot created for my project 
 ```
 git clone https://github.com/funkzzz/SolanaSNB.git
 ```
-Install dependencies
-```
-yarn install
-```
 
 ### Updating .env with your Secrets 
 Inside SolanaSNB you can find the env file. Inside it you will find the configurations:
@@ -67,6 +63,10 @@ Go to Solscan -> Search your collection -> Click on any NFT you choose (it doesn
 
 <img src="https://i.postimg.cc/CxKvThSn/Screenshot-2022-10-14-105737.png" width=450>
 
+## Install dependencies
+```
+yarn install
+```
 
 ## Run the Bot
 Simply run:
