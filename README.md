@@ -16,7 +16,7 @@ This bot created by [NoamPeretz](@twitterlink) . The Bot created for my project 
 **Clone this repository:**
 
 ```
-git clone https://github.com/funkzzz/SolanaSNB.git
+git clone https://github.com/funkzzz/SolanaNSB.git
 ```
 
 ### Updating .env with your Secrets 
