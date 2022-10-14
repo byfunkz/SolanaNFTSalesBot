@@ -20,7 +20,7 @@ git clone https://github.com/funkzzz/SolanaNSB.git
 ```
 **cd into the folder**
 ```
-cd SolanaSNB
+cd SolanaNSB
 ```
 
 ### Updating .env with your Secrets 
