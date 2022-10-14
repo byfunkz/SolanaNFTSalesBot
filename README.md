@@ -18,6 +18,10 @@ This bot created by [NoamPeretz](@twitterlink) . The Bot created for my project 
 ```
 git clone https://github.com/funkzzz/SolanaNSB.git
 ```
+**cd into the folder**
+```
+cd SolanaSNB
+```
 
 ### Updating .env with your Secrets 
 Inside SolanaSNB you can find the env file. Inside it you will find the configurations:
