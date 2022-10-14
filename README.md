@@ -65,7 +65,7 @@ Go to Solscan -> Search your collection -> Click on any NFT you choose (it doesn
 
 ## Install dependencies
 ```
-yarn install
+npm install
 ```
 
 ## Run the Bot
