@@ -78,7 +78,7 @@ you can change the bot status by going to src/lib/discord/index.ts in [line 22](
 ```client.user?.setActivity(`type here whatever you want` , { type: "Activity Type"})```
 
 Activity Type:
-for activity type you can choose between this:
+Type of activity: for type of activity you can choose from the following options:
 - [x] WATCHING
 - [x] PLAYING
 - [x] LISTENING
