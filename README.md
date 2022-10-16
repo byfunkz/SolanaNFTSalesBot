@@ -3,7 +3,7 @@
 SolanaNSB is a bot that track your NFT sales on Secondery Marketplaces
 
 ## About
-This bot created by [NoamPeretz](@twitterlink) . The Bot created for my project - [@koalasnft_](@twitterlink). If this will help you please support me by follow me on Twitter 🐦
+This bot created by [NoamPeretz](https://github.com/byfunkz) . The Bot created for my project - [@koalasnft_](https://twitter.com/koalasnft_). If this will help you please support me by follow me on Twitter 🐦
 
 <img src="https://i.postimg.cc/T31b2BZs/l-OGO-V2-1080x1080-Rounded.png" width=200>
 
@@ -107,4 +107,4 @@ I haven't found a free hosting service that easy to use at the moment (if anyone
 *Please don't ask questions about how to host this bot through IBM because I don't know either!*
 
 # Show me support
-If this will help you please support me by follow me on Twitter 🐦[@byfunkz](@twitterlink)
+If this will help you please support me by follow me on Twitter 🐦[@byfunkz](https://twitter.com/byfunkz)
