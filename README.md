@@ -100,7 +100,7 @@ And your bot should be online!
 if you got any error with the port just go to src/server.ts on line 27 Change the port to number between 4000-8080
 
 ### Hosting your Bot
-I haven't found a free hosting service at the moment (if anyone here does, I'd love for you to let me know). But here is an option you can try:
+I haven't found a free hosting service that easy to use at the moment (if anyone here does, I'd love for you to let me know). But here is an option you can try:
 
 - [x] https://www.ibm.com/cloud/code-engine 
 
